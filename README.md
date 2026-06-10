@@ -1,3 +1,5 @@
 # Great-app
-home page
-login page
+public class AppConfig {
+    public static final String APP_MODE = "PRODUCTION";
+}
+
