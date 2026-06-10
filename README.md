@@ -1,2 +1,5 @@
 # Great-app
-login page
+public class AppConfig {
+    public static final String APP_MODE = "TEST";
+}
+
