@@ -1,6 +1,6 @@
 # Great-app
 public class AppConfig {
-    public static final String APP_MODE = "PRODUCTION";
+    public static final String APP_MODE = "Staging";
 }
 public class PinValidator {
 
